@@ -1,0 +1,180 @@
+{
+  "teams": [
+    {
+      "name": "Madhav reddy",
+      "desc": "Organizer",
+      "contribution": "",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557301/Nikhil%20Raichur/Madhav_Reddy_ljzwk8.jpg",
+      "githubUrl": "https://github.com/iampawan",
+      "linkedinUrl": "https://linkedin.com/in/imthepk",
+      "twitterUrl": "https://twitter.com/imthepk"
+    },
+    {
+      "name": "Ravi Kumar",
+      "desc": "Co-Organizer",
+      "contribution": "Co-founder, Master Data Academy",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569583315/Nikhil%20Raichur/ravi_gwmlyt.jpg",
+
+      "linkedinUrl": "https://www.linkedin.com/in/ravikumar-mallajosyula-a537105/",
+
+    },
+    {
+      "name": "Usha Ramani",
+      "desc": "Co-Organizer",
+      "contribution": "Logistics and travels",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569583288/Nikhil%20Raichur/usha_ekrkke.png",
+      "fbUrl": "https://facebook.com/imthepk",
+      "githubUrl": "https://github.com/iampawan",
+      "linkedinUrl": "https://linkedin.com/in/imthepk",
+      "twitterUrl": "https://twitter.com/imthepk"
+    },
+    {
+      "name": "Sudhakar",
+      "desc": "Co-Organizer",
+      "contribution": "Founder",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569583296/Nikhil%20Raichur/sudhakar_mclm51.jpg"
+    },
+    {
+      "name": "Saketha Ramanujam",
+      "desc": "Developer",
+      "contribution": "Developed the Website",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
+      "fbUrl": "https://facebook.com/",
+      "githubUrl": "https://github.com/sakethramanujam",
+      "linkedinUrl": "https://www.linkedin.com/in/saketha-r-2441a5113",
+      "twitterUrl": "https://twitter.com/"
+    },
+    {
+      "name": "Kaniganti Sai Tarun",
+      "desc": "Android Developer",
+      "contribution": "Developed the App",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
+      "fbUrl": "https://facebook.com/saitarunkaniganti55",
+      "githubUrl": "https://github.com/SAITARUN55",
+      "linkedinUrl": "https://linkedin.com/in/kanigantisaitarun",
+      "twitterUrl": "https://twitter.com/SAITARUN1997"
+    },
+    {
+      "name": "Nitish Sai",
+      "desc": "Student",
+      "contribution": "Presentation",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569584797/Nikhil%20Raichur/WhatsApp_Image_2019-09-26_at_10.26.10_AM_bvs90w.jpg",
+      "fbUrl": "https://facebook.com/nitish.sai.09",
+      "githubUrl": "https://github.com/nitishsai8",
+      "linkedinUrl": "https://linkedin.com/in/kommarajunitishsai",
+      "twitterUrl": "https://twitter.com/nitishsai8"
+    },
+    {
+      "name": "V Asish Raju",
+      "desc": "Student",
+      "contribution": "Dev=signer",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559099/Nikhil%20Raichur/Ashish_Raju_zrmbob.jpg",
+      "fbUrl": "https://m.facebook.com/vachavaya.ashish.5",
+      "githubUrl": "https://github.com/AsishRaju",
+      "linkedinUrl": "https://www.linkedin.com/in/ashish-raju-7a0b90192",
+      "twitterUrl": "https://twitter.com/vashish888"
+    },
+    {
+      "name": "Kalaga Sahitya",
+      "desc": "Student",
+      "contribution": "Content Writer",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569584884/Nikhil%20Raichur/WhatsApp_Image_2019-09-26_at_1.27.25_PM_s8lkgj.jpg",
+
+      "githubUrl": "https://github.com/KalagaSahitya",
+      "linkedinUrl": "https://www.linkedin.com/in/kalaga-sahitya-7b581115a",
+      "twitterUrl": "https://twitter.com/KalagaSahitya?s=09"
+    },
+    {
+      "name": "K Harika",
+      "desc": "Student",
+      "contribution": "Host",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559170/Nikhil%20Raichur/K_Harika_lpnsc7.png",
+
+      "githubUrl": "https://github.com/HarikaTechSavvy",
+      "linkedinUrl": "https://www.linkedin.com/in/kavalipurapu-harika-45b337171",
+
+    },
+    {
+      "name": "Kamsu Sasi Teja",
+      "desc": "Student",
+      "contribution": "Host",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559214/Nikhil%20Raichur/Kamsu_Sasi_Teja_owkcub.jpg",
+
+      "githubUrl": "https://github.com/kamsusasiteja",
+      "linkedinUrl": "https://www.linkedin.com/in/kamsu-sasi-teja-9b0936169",
+      "twitterUrl": "https://twitter.com/KamsuSasi"
+    },
+    {
+      "name": "P Sai Bhaskar",
+      "desc": "GitHub Campus Expert",
+      "contribution": "Developed the Website",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569584514/Nikhil%20Raichur/35323355_euvaua.jpg",
+      "fbUrl": "https://www.facebook.com/psaibhaskar",
+      "githubUrl": "https://github.com/saibhaskar24",
+      "linkedinUrl": "https://www.linkedin.com/in/sai-bhaskar-946529152",
+      "twitterUrl": "https://twitter.com/bhaskarbaaskar"
+    },
+    {
+      "name": "Vijaya Lakshmi",
+      "desc": "Registration Team",
+      "contribution": "Student",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559199/Nikhil%20Raichur/Vijaya_Lakshmi_t5ohdi.jpg",
+
+      "linkedinUrl": "https://www.linkedin.com/in/vijayalakshmi-achanta-95b178146",
+      "twitterUrl": "https://twitter.com/vijayalakshmi1018"
+    },
+    {
+      "name": "Shazia Muskaan",
+      "desc": "Registration Team",
+      "contribution": "Student",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559108/Nikhil%20Raichur/Shazia_Muskaan_vc8uii.jpg",
+      "githubUrl": "https://github.com/shaz2300",
+      "linkedinUrl": "https://www.linkedin.com/in/shazia-muskaan-540213180/",
+      "twitterUrl": "https://twitter.com/ShaziaMuskaan"
+    },
+    {
+      "name": "Samar Khan",
+      "desc": "Website Team",
+      "contribution": "Student",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559224/Nikhil%20Raichur/Samar_Khan_fuatc6.jpg",
+      "githubUrl": "https://github.com/samarkhanp",
+      "linkedinUrl": "https://linkedin.com/in/samarkhanp",
+      "twitterUrl": "https://twitter.com/samarkhan_p"
+    },
+    {
+      "name": "Sai Sampath Kumar Balivada",
+      "desc": "Photographer",
+      "contribution": "DSC Lead, VIIT",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559139/Nikhil%20Raichur/Sai_Sampath_Kumar_Balivada_vzgb3n.png",
+      "githubUrl": "https://github.com/sampathbalivada",
+      "linkedinUrl": "hhttps://linkedin.com/in/sampathbalivada",
+      "twitterUrl": "hhttps://twitter.com/sampathbalivada"
+    },
+    {
+      "name": "Sai Sandhya Kakarlamudi",
+      "desc": "Photographer",
+      "contribution": "DSC Lead, VIIT",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559145/Nikhil%20Raichur/Sandhya_Kakarlamudi_hy2lwt.jpg",
+
+      "linkedinUrl": "https://www.linkedin.com/in/sai-sandhya-kakarlamudi-72b991175/",
+      "twitterUrl": "https://twitter.com/sandhya3198"
+    },
+    {
+      "name": "Ankit Pattnaik",
+      "desc": "Photographer",
+      "contribution": "Student",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569559124/Nikhil%20Raichur/Ankit_Pattnaik_kfhst2.jpg",
+      "fbUrl": "https://www.facebook.com/ankit.pattnaik.169",
+      "linkedinUrl": "https://www.linkedin.com/in/ankit-pattnaik-6bb186175"
+    },
+    {
+      "name": "Mohit Kanthamneni",
+      "desc": "DSC Lead, GITAM University",
+      "contribution": "Content Writer",
+      "image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569582544/Nikhil%20Raichur/Mohith_Choudhary_knnntn.jpg",
+      "githubUrl": "https://github.com/Mohith1",
+      "fbUrl": "https://www.facebook.com/",
+      "linkedinUrl": "https://www.linkedin.com/in/mohith-kanthamneni/"
+    }
+  ]
+}

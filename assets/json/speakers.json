@@ -1,0 +1,108 @@
+{
+  "speakers": [
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557412/Nikhil%20Raichur/Naresh_Kumar_gi5xns.jpg",
+      "speaker_name": "Naresh Kumar Oruganti",
+      "speaker_desc": "CEO, Symbiosis Technologies",
+      "speaker_session": "Chief Guest",
+      "fb_url": "https://facebook.com/imthepk",
+
+
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557169/Nikhil%20Raichur/Nikhil_Raichur_lspdyx.jpg",
+      "speaker_name": "Nikhil Raichur",
+      "speaker_desc": "Lead DSC India, Google",
+      "speaker_session": "Key Note Session",
+      "fb_url": "https://facebook.com/imthepk",
+
+      "linkedin_url": "https://linkedin.com/in/nikhilraichur",
+      "twitter_url": "https://twitter.com/imthepk"
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557301/Nikhil%20Raichur/Madhav_Reddy_ljzwk8.jpg",
+      "speaker_name": "Madhav Reddy",
+      "speaker_desc": "Founder, GDG Vizag & WTM Vizag",
+      "speaker_session": "Welcome Note",
+      "fb_url": "https://facebook.com/imthepk",
+      "github_url": "https://github.com/iampawan",
+      "linkedin_url": "https://linkedin.com/in/reddymadhav",
+      "twitter_url": "https://twitter.com/rmadhav9"
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557313/Nikhil%20Raichur/Madhu_Vadlamani_w44ydy.jpg",
+      "speaker_name": "Madhu Vadlamani",
+      "speaker_desc": "Sr Lead in Web and Data Analytics, Kony",
+      "speaker_session": "10 Best ways to use Google Cloud Computing, Key Uses and Intelligent Techniques",
+
+      "linkedin_url": "https://linkedin.com/in/madhuvad",
+      "twitter_url": "https://twitter.com/AnalyticsMadhu"
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557385/Nikhil%20Raichur/Krishna_Reddy_doefk3.jpg",
+      "speaker_name": "Mohan Bailapudi",
+      "speaker_desc": "Data Scientist & Software Lead, Amzur Technologies",
+      "speaker_session": "Machine Learning, Deep Learning & Tensorflow 2.0",
+
+      "linkedin_url": "https://www.linkedin.com/in/bmpk-5628a296/"
+    },
+    {
+      "speaker_image": "\"https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557347/Nikhil%20Raichur/Aravind_Putrevu_yfs9hf.png",
+      "speaker_name": "Aravind Putrevu",
+      "speaker_desc": "Developer Advocate - India, Elastic",
+      "speaker_session": "Building a Scalable Search Engine on GKE using Elasticsearch",
+      "fb_url": "https://facebook.com/imthepk",
+      "github_url": "https://github.com/iampawan",
+      "linkedin_url": "https://linkedin.com/in/aravindputrevu",
+      "twitter_url": "https://twitter.com/aravindputrevu"
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569557334/Nikhil%20Raichur/Sreedhar_Kosaraju_ez7u3b.jpg",
+      "speaker_name": "Sreedhar Kosaraju",
+      "speaker_desc": "Founder, Nimaisoft Systems Pvt Ltd",
+      "speaker_session": "Why Angular, Angular vs React JS, Angular Vs Server Side Frameworks",
+      "fb_url": "https://facebook.com/imthepk",
+      "github_url": "https://github.com/iampawan",
+      "linkedin_url": "https://linkedin.com/in/sreedhar-kosaraju-040bb051",
+      "twitter_url": "https://twitter.com/sridharkosaraju"
+    },
+    {
+      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqEG002BsGCqZLZRFUGu9xo4IpGamz6gTqlWxWyME0s-n8gR7Rs0tM5R6mPMOCRYf5rAunWx0GQeXDUHPag_XWGApdekw.cks8tPlPy-TeucOT",
+      "speaker_name": "Usha Ramani",
+      "speaker_desc": "Lead, WTM Vizag",
+      "speaker_session": "Introduction to on Women Techmakers Vizag",
+      "fb_url": "https://facebook.com/imthepk",
+      "github_url": "https://github.com/iampawan",
+      "linkedin_url": "https://linkedin.com/in/imthepk",
+      "twitter_url": "https://twitter.com/imthepk"
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569604385/Nikhil%20Raichur/dr_gbcxuo.jpg",
+      "speaker_name": "Dr. Nagadhara Harini Datti",
+      "speaker_desc": "Associate Proffesor, GVP College of Engineering",
+      "speaker_session": "Session on Chatbots",
+
+      "linkedin_url": "https://linkedin.com/in/dr-harini-datti-nagadhara-737808b7",
+      "twitter_url": "https://twitter.com/harinidhara"
+    },
+    {
+      "speaker_image": "https://res.cloudinary.com/de5lsdyxx/image/upload/v1569604562/Nikhil%20Raichur/cardlytics_hwkjry.webp",
+      "speaker_name": "Cardlytics India",
+      "speaker_desc": "",
+      "speaker_session": "SProduction Presentation",
+      "fb_url": "https://facebook.com/imthepk",
+      "github_url": "https://github.com/iampawan",
+      "linkedin_url": "https://linkedin.com/in/imthepk",
+      "twitter_url": "https://twitter.com/imthepk"
+    },
+    {
+      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXBET0RKT0JBV195UjVuSDRKS3JEenphN2gzLW80WEdvenlGdkZhNGREUzFmQUk1RjJnR0N5eEJIdlBkOVhlLUdwalVSWXlxbXJ4VFA0QXRZdnB4WDllWFNpdmdiNy14Q0tLOENCeU41Yks4NF9vUVQ0LlVFY0RBeld0ZTd4OEtSUTg",
+      "speaker_name": "Sudhakar Pantula",
+      "speaker_desc": "",
+      "speaker_session": "Closing Note",
+
+      "linkedin_url": "https://linkedin.com/in/sudhakar-pantula",
+      "twitter_url": "https://twitter.com/spantula"
+    }
+  ]
+}
